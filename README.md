@@ -16,4 +16,4 @@ As our Cloud Computing project, we work on two approaches:
 
 ---
 Team
-![@shaquillo](https://github.com/shaquillo) , ![Franklin-Duval](https://github.com/Franklin-Duval/], ![SylvainK200](https://github.com/SylvainK200) and ![me](https://github.com/script-0/).
+![@shaquillo](https://github.com/shaquillo) , ![Franklin-Duval](https://github.com/Franklin-Duval/), ![SylvainK200](https://github.com/SylvainK200) and ![me](https://github.com/script-0/).
